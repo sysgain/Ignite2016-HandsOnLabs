@@ -1,0 +1,14 @@
+##AZURE  PORTAL
+
+https://portal.azure.com
+user319@2016ignite.onmicrosoft.com / IgniteSession20
+
+Resource Group : RG319
+
+##Chef Workstation
+
+Ip Address : 104.42.102.2
+
+User name: adminuser 
+Password : adminuser@123
+

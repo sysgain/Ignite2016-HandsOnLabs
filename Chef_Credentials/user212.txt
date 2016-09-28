@@ -1,0 +1,14 @@
+AZURE  PORTAL
+
+https://portal.azure.com
+user212@2016ignite.onmicrosoft.com / IgniteSession20
+
+Resource Group : RG212
+
+##Chef Workstation
+
+Ip Address : 104.40.18.208
+
+User name: chefrg212
+Password: adminuser@123
+
