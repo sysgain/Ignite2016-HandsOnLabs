@@ -12,12 +12,18 @@ User name: trend
 Password: Ignite2016!
 
 
-
-
-
 ## Splunk
 
 SPLUNK SERVER URI: https://publicdnssplunkenterprisekm7rfcng4a6r4.westus.cloudapp.azure.com
 
 Username: admin
+Password: Ignite2016!
+
+
+## Chef
+
+CHEF SERVER URI: https://publicdnschefserverkm7rfcng4a6r4.westus.cloudapp.azure.com
+CHEF VM NAME: chefServer
+
+Username: chefuser
 Password: Ignite2016!
