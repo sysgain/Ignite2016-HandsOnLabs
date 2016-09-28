@@ -12,3 +12,8 @@ Ip Address : 104.210.44.33
 User name: adminuser 
 Password : adminuser@123
 
+## Chef Compliance URL 
+https://compliancerg320.westus.cloudapp.azure.com  (use "compliancerg320" for biscotti verification)
+username : admin-user
+password: adminuser@123
+
