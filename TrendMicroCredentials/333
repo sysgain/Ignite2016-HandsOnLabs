@@ -1,0 +1,33 @@
+AZURE  PORTAL
+
+https://portal.azure.com
+
+user333@2016Ignite.onmicrosoft.com / IgniteSession20
+
+
+##Trend
+TRENDMICRO DSM URI: https://publicdnstrenddsmuwifu25hiztbu.westus.cloudapp.azure.com
+
+User name: trend
+Password: Ignite2016!
+
+
+
+
+
+## Splunk
+
+SPLUNK SERVER URI: https://publicdnssplunkenterpriseuwifu25hiztbu.westus.cloudapp.azure.com
+
+Username: admin
+Password: Ignite2016!
+
+
+
+## Chef
+
+CHEF SERVER URI: https://publicdnschefserveruwifu25hiztbu.westus.cloudapp.azure.com
+CHEF VM NAME: chefServer
+
+Username: chefuser
+Password: Ignite2016!
