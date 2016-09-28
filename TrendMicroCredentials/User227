@@ -11,13 +11,17 @@ TRENDMICRO DSM URI: https://publicdnstrenddsmenqziiid7bma4.westus.cloudapp.azure
 User name: trend
 Password: Ignite2016!
 
-
-
-
-
 ## Splunk
 
 SPLUNK SERVER URI: https://publicdnssplunkenterpriseenqziiid7bma4.westus.cloudapp.azure.com
 
 Username: admin
+Password: Ignite2016!
+
+##Chef
+
+CHEF SERVER URI:  https://publicdnschefserverenqziiid7bma4.westus.cloudapp.azure.com
+
+CHEF VM Name: chefServer
+Username: chefuser
 Password: Ignite2016!
